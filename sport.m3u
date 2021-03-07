@@ -236,3 +236,103 @@ https://strm.yandex.ru/kal/start/start0_169_720p.json/index-v1-a1.m3u8
 https://95-213-224-183.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/e7E9Of9.jpg" tvg-url="" group-title="Sport",Футбол 2
 https://95-213-224-183.livesports24.online/fooootball2.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Super Tenis
+http://203.154.243.89:11739
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",RTM Sports
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",PPTV SPORTS
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="SPORTS", CCTV-5 
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="SPORTS", CCTV-5 (2)
+http://39.134.66.66/PLTV/88888888/224/3221225690/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="SPORTS", CCTV-5+
+http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="SPORTS", UFC FIGHT 1
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="SPORTS",UFC Fight 2
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Motors Sport
+https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://azk.my.id/~azktv/sport/nbatv.png" group-title="SPORTS",NBA
+https://cdnmdc2.useetv.com/joss/15/nba/chunklist_w169081463_b1344100_sleng.m3u8?enc=68VDYhz_AQtTHIPmKwYYiQ&exp=1603940000
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",TVRI Sports (2)
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein SportsMax
+http://62.210.124.97:8080/zryMwavhQJ/uDuTgpre4m/33284?play_token=EkjUWrA48O&token=QhVcUhcJRggXAAZRAFRRAVVUUANWVV0BXFYNV1FXVAIND1AHVlNWBVFGGURBEkJRAFtpWgVEXlBWVg1VSkAXElxFa1oAQ14QB1wBUAJTEhhDQl9eBEReUlNUB1BXVlJTDhsWQw0FRggXVQBXBEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRANQAgRDGhRQDhMKFxcdF1tEKyZDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XXwFfBhYc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xHXZoUP.png" group-title="SPORTS",AD Sports 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xHXZoUP.png" group-title="SPORTS",AD Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xHXZoUP.png" group-title="SPORTS",AD Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xHXZoUP.png" group-title="SPORTS",AD Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xHXZoUP.png" group-title="SPORTS",AD Sports 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xHXZoUP.png" group-title="SPORTS",AD Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ThVbcVq.png" group-title="SPORTS",Al Kass Sports 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S1YWrNd.jpg" group-title="SPORTS",SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS",Bein1
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",Bein2
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",Fox Sport1
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",Fox Sport2
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",Fox Sport3
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",Tennis HD
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",NBA HD
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",NFLNetwork
+https://www.livedoomovie.com/02_NFLNetwork_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",Golf HD
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.
+
+#EXTINF:-1 group-title="SPORTS",TVRI SPORT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="SPORTS",RTM SPORT
+https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="SPORTS",JapanSport1
+http://193.42.99.130:23455/3640/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",JapanSport2
+http://193.42.99.130:23455/3650/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",JapanSport3
+http://193.42.99.130:23455/3660/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",JapanSport
+http://193.42.99.130:23455/3670/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",CCTV-5+
+http://112.50.243.8/PLTV/88888888/224/3221225939/1.m3u8
+
+#EXTINF:-1 group-title="SPORTS",DigiSport4
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/playlit.m3u8
+#EXTINF:-1 group-title="SPORTS",DigiSport3
+http://rstr0.teamnetwork.co/stream129/stream.m3u8
+#EXTINF:-1 group-title="SPORTS",DigiSport2
+http://rstr0.teamnetwork.co/stream128/stream.m3u8
+#EXTINF:-1 group-title="SPORTS",DigiSport1
+http://rstr0.teamnetwork.co/stream127/stream.m3u8
+#EXTINF:-1 group-title="SPORTS",UfcFightPass
+http://a3569457204-s22674.cdn.ngenix.net/hls/UFC/index_0.m3u8
+#EXTINF:-1 group-title="SPORTS",UfcFightTime
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1 group-title="SPORTS",ufc2
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="SPORTS",UFC stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
